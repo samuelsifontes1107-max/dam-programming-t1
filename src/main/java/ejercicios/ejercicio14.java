@@ -46,7 +46,7 @@ public class ejercicio14 {
                 ventasPeras = ventasPeras *1.95;
                 beneficiosAnuales = ventaManzanas += ventasPeras;
 
-                System.out.println(" beneficios anuales de ingresos es de : " + beneficiosAnuales);
+                System.out.println(" beneficios anuales de beneficios es de : " + beneficiosAnuales);
 
 
 
